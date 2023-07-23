@@ -12,4 +12,4 @@
 ### 🛡️Crew
 | Member  | Location |
 |---|---|
-| [![]() WishTheSense](https://github.com/WishTheSense)  | ![National flag for Finland]() UK  |
+| [![]() WishTheSense](https://github.com/WishTheSense)  | UK  |
